@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<head>
+<style>
+body {
+  
+  background-color: black;
+  color: #FF00D8;
+}
+
+h1 {
+  background-color: #FF00D8;
+  color: #36FF00;
+font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 40px
+  
+}
+
+h2 { 
+  background-color: #36FF00;
+  color: #FF00D8;
+font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 18px
+   
+}
+  
+</style>
+   <img src="https://static.wixstatic.com/media/6a6917_9d6e126b0f2b4b839a774fe77c369d2e~mv2.png/v1/fill/w_600,h_49,al_c,q_85,usm_0.66_1.00_0.01/tcc%20da%20mari.webp" width="25%" height="75%">
+
+</head>
+<body>
+<nav id="menu">
+    <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Sobre o Projeto</a></li>
+        <li><a href="#">Categorias</a></li>
+        <li><a href="#">Referências</a></li>
+        <li><a href="#">Contato</a></li>
+    </ul>
+</nav>
+<h1>Memes</h1>
+  <p>.｡*ﾟ+.*.｡ Aplicação do estudo da memética na tecnologia.  ..｡*ﾟ+</p>
+<br> 
+<hr>
+  <h2> xxx </h2>
+  
